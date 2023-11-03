@@ -2,5 +2,13 @@ Gómez Lucas Iván
 Carmagnola Lucas
 Jimenez Franco
 
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+d-¿De qué forma se comunicaron ustedes?
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
 a- Si.
 b- Si, siempre y cuando haga un push.
+c- Si, si BETA hace un push los demas ven los cambios
+d- WhatsApp y github proyects
